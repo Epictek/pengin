@@ -1,0 +1,3 @@
+[submodule "hummingbird-md"]
+	path = hummingbird-md
+	url = https://github.com/Epictek/hummingbird-md
